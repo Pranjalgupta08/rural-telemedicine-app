@@ -1,0 +1,6 @@
+{
+  "name": "Rural Healthcare Access Platform",
+  "description": "Connecting rural patients with doctors via telemedicine, tracking medicine distribution, health clinic stocks, and providing emergency facility geolocation.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
